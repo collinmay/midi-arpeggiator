@@ -18,7 +18,7 @@ public class Main {
         Sequence sq = MidiSystem.getSequence(is);
         sqr.open();
         sqr.setSequence(sq);
-        sqr.setTempoFactor(0.4)4;
+        sqr.setTempoFactor(0.4);
 
         final Arpeggiator arpeggiator = new Arpeggiator();
 
