@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notenums.iml" filepath="$PROJECT_DIR$/.idea/modules/notenums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notenums_main.iml" filepath="$PROJECT_DIR$/.idea/modules/notenums_main.iml" group="notenums" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notenums_test.iml" filepath="$PROJECT_DIR$/.idea/modules/notenums_test.iml" group="notenums" />
+    </modules>
+  </component>
+</project>
